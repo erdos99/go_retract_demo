@@ -1,1 +1,1 @@
-module github.com/erdos99/gitgo_retract_demo
+module github.com/erdos99/go_retract_demo
