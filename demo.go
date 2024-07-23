@@ -2,6 +2,6 @@ package go_retract_demo
 
 import "fmt"
 
-func nonthing() {
+func Nothing() {
 	fmt.Println("aaaa")
 }
